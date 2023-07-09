@@ -23,3 +23,5 @@ Repasemos de manera sencilla los temas visto a lo largo del curso.
 - Categorical
 - Joinplot - Pairplot
 - Heatmap
+
+Visita kaggle y busca cualquier dataset de tu preferencia. Puedes combinar Matplotlib y Seaborn para hacer tus propias visualizaciones e investiga nuevas cosas por tu cuenta. 💚
