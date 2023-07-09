@@ -12,4 +12,14 @@ Repasemos de manera sencilla los temas visto a lo largo del curso.
 - Colores y estilos
 - Otros gráficos
 - Tamaños
-- 
+
+  
+# Temas de Seaborn
+
+- Estructura
+- Parámetros más usados
+- Distributions
+- Relational
+- Categorical
+- Joinplot - Pairplot
+- Heatmap
