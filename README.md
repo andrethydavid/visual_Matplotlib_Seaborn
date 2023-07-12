@@ -28,3 +28,5 @@ Repasemos de manera sencilla los temas visto a lo largo del curso.
 - Heatmap
 
 Visita kaggle y busca cualquier dataset de tu preferencia. Puedes combinar Matplotlib y Seaborn para hacer tus propias visualizaciones e investiga nuevas cosas por tu cuenta. 💚
+
+* Para mas distibuciones web : https://cheatography.com/aggialavura/cheat-sheets/python-seaborn-imgs/
